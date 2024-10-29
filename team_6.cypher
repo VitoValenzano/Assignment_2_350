@@ -1,8 +1,7 @@
-/*Assignment 2
- *Team 6
- *Vito Valenzano, Sean Lacson Lee, Alex Sterling
- *10/29/2024
- */
+//Assignment 2
+//Team 6
+//Vito Valenzano, Sean Lacson Lee, Alex Sterling
+//10/29/2024
 
 
 //1.[Alex] Show the name of each tournament included in the database.
